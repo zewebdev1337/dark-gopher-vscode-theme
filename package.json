@@ -3,7 +3,7 @@
   "displayName": "Dark Gopher",
   "description": "Dark mode theme based on the brand colors of Golang.",
   "publisher": "zewebdev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.94.0"
   },
