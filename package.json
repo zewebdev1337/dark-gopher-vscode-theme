@@ -3,7 +3,7 @@
   "displayName": "Dark Gopher",
   "description": "Dark mode theme based on the brand colors of Golang.",
   "publisher": "zewebdev",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -13,9 +13,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Gopher",
+        "label": "Dark Gopher dim",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Gopher-color-theme.json"
+        "path": "./themes/Dark Gopher dim-color-theme.json"
+      },
+      {
+        "label": "Dark Gopher HC",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Gopher HC-color-theme.json"
       }
     ]
   },
