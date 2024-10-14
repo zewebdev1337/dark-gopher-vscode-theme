@@ -3,7 +3,7 @@
   "displayName": "Dark Gopher",
   "description": "Dark mode themes based on the brand colors of Golang.",
   "publisher": "zewebdev",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.94.0"
@@ -27,6 +27,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zewebdev/dark-gopher-vscode-theme.git"
+    "url": "https://github.com/zewebdev1337/dark-gopher-vscode-theme.git"
   }
 }
