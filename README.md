@@ -1,16 +1,7 @@
-# dark-gopher README
+# Dark Gopher
 
-## Working with Markdown
+Dark Gopher is a dark theme for VSCode, inspired by the colors of the Golang brand. 
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+It offers two variants: Dim and High Contrast.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Enjoy coding in the style of Dark Gopher!**
