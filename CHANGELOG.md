@@ -45,3 +45,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Change editor cursor to white
 - Changelog added
+
+## [0.1.3]
+
+- increase squiggles contrast for HC
