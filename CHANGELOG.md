@@ -37,10 +37,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.1.1]
 
+- ### UNRELEASED
 - Link hover color fixed
 - Wrong repo link fixed
 
 ## [0.1.2]
 
-- Change edirot cursor to white
+- Change editor cursor to white
 - Changelog added
